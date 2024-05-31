@@ -1,5 +1,8 @@
 # Clip-Os
 Clip-Os (which also respond to "clippos") are modular 3D-printed couplers which secure sheet stock to itself and other things. Clip-Os are incredibly fun and useful! Use them to quickly fabricate enclosures, build simple robot chasses, attach electronics to garmets, prototype complex faceted shapes, iterate flexural mechanisms, or simply sketch in three dimensions using hand tools and cheap materials. If you have a 3D printer and a pile of filament, consider queueing up a few plates of Clip-Os today! 
+
+![clip-o-garmet](img/clip-o-garmet.jpg)
+
 ## Clip-O Library
 |Clip-O|Image|Notes|*.stl|
 |-|-|-|-|
@@ -16,7 +19,9 @@ Clip-Os (which also respond to "clippos") are modular 3D-printed couplers which 
 None yet. But this is where I'll link to your designs, if they don't end up in the library above!
 
 ## Tools and Materials
-First, fabricate a bunch of Clip-Os! Nearly any FDM 3D printer equipped with normal PLA will work, but you should have a system tuned well enough to not need raft or brim for adhesion. A smudge with a glue stick (or better, the 3D printer bed adhesion helper that comes in a little bottle) goes a long way. Slice the Clip-Os on their sides so the 90-degree parts look like an 'L' when viewed from above, at 100% infill, with no supports (unless needed for a weird Clip-O; standard joint Clip-Os, like 90_moreflexys, don't need them). 
+First, fabricate a bunch of Clip-Os! The *.stl files are in the rightmost column in the library above; start with the 90_moreflexy model. Nearly any FDM 3D printer equipped with normal PLA will work, but you should have a system tuned well enough to not need raft or brim for adhesion. A smudge with a glue stick (or better, the 3D printer bed adhesion helper that comes in a little wiper bottle) goes a long way. Slice the Clip-Os on their sides so the 90-degree parts look like an 'L' when viewed from above, at 100% infill, with no supports (unless needed for a weird Clip-O; standard joint Clip-Os, like 90_moreflexys, don't need them). Even if a few let go during fabrication, you should end up with a bunch of good parts in short order. 
+
+![printing-clip-os](img/printing-clip-os.jpg)
 
 In addition to a handful of Clip-Os, you'll need a pile of 1/16" (1.6 mm) sheet stock to form the bulk of your structures. I pick up free matboard offcuts from frame shops; it's a great material because the price is right (framers only need the outer edge of material!), it can be recycled, it cuts well with a razor and with a laser cutter, and there are tons of colors and finishes available. Plenty of other materials are also excellent: thin plywood; circuit boards; acrylic sheet; normal corrugated cardboard; thin HDPE; and likely a few hundred other options we haven't yet discovered.
 
