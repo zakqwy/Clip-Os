@@ -1,16 +1,16 @@
-# Clip-O
-Clip-Os (sometimes "clippos") are modular 3D-printed couplers which secure sheet stock to itself and other things. Clip-Os are incredibly fun and useful! Use them to quickly fabricate enclosures, build simple robot chasses, attach electronics to garmets, prototype complex faceted shapes, iterate flexural mechanisms, or simply sketch in three dimensions using hand tools and cheap materials. If you have a 3D printer and a pile of filament, consider queueing up a few plates of Clip-Os today! 
+# Clip-Os
+Clip-Os (which also respond to "clippos") are modular 3D-printed couplers which secure sheet stock to itself and other things. Clip-Os are incredibly fun and useful! Use them to quickly fabricate enclosures, build simple robot chasses, attach electronics to garmets, prototype complex faceted shapes, iterate flexural mechanisms, or simply sketch in three dimensions using hand tools and cheap materials. If you have a 3D printer and a pile of filament, consider queueing up a few plates of Clip-Os today! 
 ## Clip-O Library
 |Clip-O|Image|Notes|*.stl|
 |-|-|-|-|
-|90_moreflexy|![Clip-O 90_moreflexy render](img/clip-o_90_moreflexy.png)|The first Clip-O to print! Relaxes to 90&deg;, but allows +/- 30&deg; of flexure. Great for building irregular polyhedra.|-|
-|180_moreflexy|![Clip-O 180_moreflexy render](img/clip-o_180_moreflexy.png)|Relaxes to 180&deg;, but allows +/- 30&deg; of flexure. Useful when you start breaking 90_moreflexy Clip-Os.|-|
-|ribbon|![Clip-O ribbon render](img/clip-o_ribbon.png)|Accepts a loop of 1/2" ribbon or a bunch of loops of thread, for attaching Clip-Os to garmets!|-|
-|shaft_support|![Clip-O shaft-support render](img/clip-o_shaft-support.png)|Supports a 9 mm dowel, or provides a great universal attachment loop for rope or yarn.|-|
-|bird|![Clip-O bird render](img/clip-o_bird.png)|Bird Clip-O (bird from pmoews, available [here](https://www.thingiverse.com/thing:579484))|-|
-|switch|![Clip-O switch render](img/clip-o_switch.png)|Holds a small limit switch (CIT Relay and Switch p/n DM3CQF1002L03). Great for making button boxes and robot bump sensors.|-|
-|micro:bit|![Clip-O micro:bit render](img/clip-o_microbit.png)|Holds a BBC micro:bit board.|-|
-|half|![Clip-O half render](img/clip-o_half.png)|The canonical Clip-O joint; start here to create new Clip-Os.|-|
+|90_moreflexy|![Clip-O 90_moreflexy render](img/clip-o_90_moreflexy.png)|The first Clip-O to print! Relaxes to 90&deg;, but allows +/- 30&deg; of flexure. Great for building irregular polyhedra.|[90_moreflexy](fab/clip-o_90_moreflexy.stl)|
+|180_moreflexy|![Clip-O 180_moreflexy render](img/clip-o_180_moreflexy.png)|Relaxes to 180&deg;, but allows +/- 30&deg; of flexure. Useful when you start breaking 90_moreflexy Clip-Os.|[180_moreflexy](fab/clip-o_180_moreflexy.stl)|
+|ribbon|![Clip-O ribbon render](img/clip-o_ribbon.png)|Accepts a loop of 1/2" ribbon or a bunch of loops of thread, for attaching Clip-Os to garmets!|[ribbon](fab/clip-o_ribbon.stl)|
+|shaft_support|![Clip-O shaft-support render](img/clip-o_shaft-support.png)|Supports a 9 mm dowel, or provides a great universal attachment loop for rope or yarn.|[shaft-support](fab/clip-o_shaft-support.stl)|
+|bird|![Clip-O bird render](img/clip-o_bird.png)|Bird Clip-O (bird from pmoews, available [here](https://www.thingiverse.com/thing:579484))|[bird](fab/clip-o_bird.stl)|
+|switch|![Clip-O switch render](img/clip-o_switch.png)|Holds a small limit switch (CIT Relay and Switch p/n DM3CQF1002L03). Great for making button boxes and robot bump sensors.|[switch](fab/clip-o_switch.stl)|
+|micro:bit|![Clip-O micro:bit render](img/clip-o_microbit.png)|Holds a BBC micro:bit board.|[micro:bit](fab/clip-o_microbit.stl)|
+|half|![Clip-O half render](img/clip-o_half.png)|The canonical Clip-O joint; start here to create new Clip-Os.|[half](fab/clip-o_half.stl)|
 
 ### Community-developed Clip-Os!
 None yet. But this is where I'll link to your designs, if they don't end up in the library above!
