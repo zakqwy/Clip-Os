@@ -3,14 +3,14 @@ Clip-Os (sometimes "clippos") are modular 3D-printed couplers which secure sheet
 ## Clip-O Library
 |Clip-O|Image|Notes|*.stl|
 |-|-|-|-|
-|half||The canonical Clip-O joint; start here to create new Clip-Os.|-|
-|90_moreflexy||The first Clip-O to print! Relaxes to 90&deg;, but allows +/- 30&deg; of flexure. Great for building irregular polyhedra.|-|
-|180_moreflexy||Relaxes to 180&deg;, but allows +/- 30&deg; of flexure. Useful when you start breaking 90_moreflexy Clip-Os.|-|
-|ribbon||Accepts a loop of 1/2" ribbon or a bunch of loops of thread, for attaching Clip-Os to garmets!|-|
-|shaft_support||Supports a 9 mm dowel, or provides a great universal attachment loop for rope or yarn.|-|
-|bird||Bird Clip-O|-|
-|switch||Holds a small limit switch (CIT Relay and Switch p/n DM3CQF1002L03). Great for making button boxes and robot bump sensors.|-|
-|micro:bit||Holds a BBC micro:bit board.|-|
+|90_moreflexy|![Clip-O 90_moreflexy render](img/clip-o_90_moreflexy.png)|The first Clip-O to print! Relaxes to 90&deg;, but allows +/- 30&deg; of flexure. Great for building irregular polyhedra.|-|
+|180_moreflexy|![Clip-O 180_moreflexy render](img/clip-o_180_moreflexy.png)|Relaxes to 180&deg;, but allows +/- 30&deg; of flexure. Useful when you start breaking 90_moreflexy Clip-Os.|-|
+|ribbon|![Clip-O ribbon render](img/clip-o_ribbon.png)|Accepts a loop of 1/2" ribbon or a bunch of loops of thread, for attaching Clip-Os to garmets!|-|
+|shaft_support|![Clip-O shaft-support render](img/clip-o_shaft-support.png)|Supports a 9 mm dowel, or provides a great universal attachment loop for rope or yarn.|-|
+|bird|![Clip-O bird render](img/clip-o_bird.png)|Bird Clip-O (bird from pmoews, available [here](https://www.thingiverse.com/thing:579484))|-|
+|switch|![Clip-O switch render](img/clip-o_switch.png)|Holds a small limit switch (CIT Relay and Switch p/n DM3CQF1002L03). Great for making button boxes and robot bump sensors.|-|
+|micro:bit|![Clip-O micro:bit render](img/clip-o_microbit.png)|Holds a BBC micro:bit board.|-|
+|half|![Clip-O half render](img/clip-o_half.png)|The canonical Clip-O joint; start here to create new Clip-Os.|-|
 
 ### Community-developed Clip-Os!
 None yet. But this is where I'll link to your designs, if they don't end up in the library above!
