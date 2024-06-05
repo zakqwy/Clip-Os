@@ -63,6 +63,7 @@ Feel free to help chip away at this list if you like; no guarantees on inclusion
 |automation/motion components|... for mounting things like 608 skate bearings, linear rails, and the like.|
 |pivot wheel|... for building turtle robots. Maybe something with a snap-in ball.|
 |free wheel|... for other times you want a freely rotating wheel.|
+|bright light|... for attaching bright LEDs to things. maybe includes its own power?|
 |thicker materials|... for 3 mm stock, or maybe even thicker material. Since this breaks Clip-O joint compatibility, it might require an additional layer of categorization. Also, big *big* Clip-Os, for building furniture out of plywood. Why not??|
 |more switches|... for different switch types, and different switch orientations. Maybe one for a standard Cherry keyswitch, maybe one that also holds a robot whisker, maybe one for an arcade button, etc.|
 |more PCBs|... for circuit boards large and small, particularly for sensor breakouts and LED pixels. Parameterize!|
