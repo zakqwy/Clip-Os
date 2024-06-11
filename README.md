@@ -4,7 +4,7 @@ Clip-Os (which also respond to "clippos") are modular 3D-printed couplers which 
 ![clip-o-garmet](img/clip-o-garmet.jpg)
 
 ## Clip-O Library
-|Clip-O|Image|Notes|*.stl|
+|Clip-O|Image|Notes|*.stl (click for download and in-browser viewer, where you can drag to pan and scroll to zoom!)|
 |-|-|-|-|
 |90_moreflexy|![Clip-O 90_moreflexy render](img/clip-o_90_moreflexy.png)|The first Clip-O to print! Relaxes to 90&deg;, but allows +/- 30&deg; of flexure. Great for building irregular polyhedra.|[90_moreflexy](fab/clip-o_90_moreflexy.stl)|
 |180_moreflexy|![Clip-O 180_moreflexy render](img/clip-o_180_moreflexy.png)|Relaxes to 180&deg;, but allows +/- 30&deg; of flexure. Useful when you start breaking 90_moreflexy Clip-Os.|[180_moreflexy](fab/clip-o_180_moreflexy.stl)|
