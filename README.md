@@ -12,6 +12,7 @@ Clip-Os (which also respond to "clippos") are modular 3D-printed couplers which 
 |shaft_support|![Clip-O shaft-support render](img/clip-o_shaft-support.png)|Supports a 9 mm dowel, or provides a great universal attachment loop for rope or yarn.|[shaft-support](fab/clip-o_shaft-support.stl)|
 |bird|![Clip-O bird render](img/clip-o_bird.png)|Bird Clip-O (bird from pmoews, available [here](https://www.thingiverse.com/thing:579484))|[bird](fab/clip-o_bird.stl)|
 |switch|![Clip-O switch render](img/clip-o_switch.png)|Holds a small limit switch (CIT Relay and Switch p/n DM3CQF1002L03). Great for making button boxes and robot bump sensors.|[switch](fab/clip-o_switch.stl)|
+|switch_90|![Clip-O switch_90 render](img/clip-o_switch_90.png)|Holds the same switch but sits flatter due to the 90 degree bend.|[switch_90](fab/clip-o_switch_90.stl)|
 |micro:bit|![Clip-O micro:bit render](img/clip-o_microbit.png)|Holds a BBC micro:bit board.|[micro:bit](fab/clip-o_microbit.stl)|
 |half|![Clip-O half render](img/clip-o_half.png)|The canonical Clip-O joint; start here to create new Clip-Os.|[half](fab/clip-o_half.stl)|
 
